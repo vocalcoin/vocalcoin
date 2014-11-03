@@ -27,9 +27,9 @@ class CRequestTracker;
 class CNode;
 
 // to make the PoS stable, PoW with 0 in rewards ICO 
-// Sun, 02 Nov 2014 17:00:00 GMT
+// Sat, 08 Nov 2014 18:00:00 GMT
 
-static const int LAST_POW_TIME = 1414947600; 
+static const int LAST_POW_TIME = 1415469600;  
 
 static const unsigned int MAX_BLOCK_SIZE = 1000000;
 static const unsigned int MAX_BLOCK_SIZE_GEN = MAX_BLOCK_SIZE/2;
